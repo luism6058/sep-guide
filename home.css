@@ -15,8 +15,11 @@
   @media only screen and (min-width: 972px){
     h1,h3{
       font-size:40px;
-      padding-top:10px;
+      
     }
+  }
+  h1 {
+    padding-top:20px;
   }
   body {
       font: 20px Montserrat, sans-serif;
