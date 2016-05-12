@@ -56,6 +56,9 @@
   .navbar-nav  li a:hover {
       color: #1abc9c !important;
   }
-  #intro {
-    background: url(comp_lab.JPG);
+#intro{
+    background: url(images/Earth.gif) no-repeat center;
+    background-size:cover;
+    
   }
+  
