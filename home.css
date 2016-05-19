@@ -65,10 +65,8 @@
       color: #1abc9c !important;
   }
 #intro{
-    background: url(images/Earth.gif) no-repeat center;
-    background-size:cover;
-    display:table;
-    
+    background: url(images/pcgif.gif) no-repeat;
+    background-size: cover;
   }
   h1,h2,h3,h4,h5,h6, p {
     color: white;
