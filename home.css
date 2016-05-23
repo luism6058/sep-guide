@@ -71,3 +71,10 @@
   h1,h2,h3,h4,h5,h6, p {
     color: white;
   }
+  #topics{
+    padding-top: 10px;
+  }
+  #arduino{
+    /*position:fixed;*/
+    margin-bottom: 30px;
+  }
